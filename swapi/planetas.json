@@ -1,0 +1,23 @@
+{
+ "Planetas":
+      [
+        {
+          "id": "1",
+          "nome": "Terra",
+          "clima": "Tropical",
+          "terreno": "Variado"
+        },
+        {
+          "id": "2",
+          "nome": "Marte",
+          "clima": "",
+          "terreno": ""
+        },
+        {
+          "id": "3",
+          "nome": "Saturno",
+          "clima": "",
+          "terreno": ""
+        }
+      ]
+}
